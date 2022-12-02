@@ -1,5 +1,5 @@
 # ID-Assignment-1
-Name of this Project:
+<h2>Name of this Project:</h2>
     Space Reimagined
 
 Overview:
