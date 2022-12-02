@@ -14,7 +14,7 @@
     <p>Feature 2: There are hover effects to declutter the page. There are hover-over features that will hide the descriptions of the type of design in the "Designs" page. This can help organise and declutter the page as the information will only be visible after hovering the cursor over, as such there will not be too much information at one glance.</p>
 
 
-Credits: 1. https://www.w3schools.com/html/
+<h2>Credits</h2> 1. https://www.w3schools.com/html/
          2. https://www.pinterest.com/
          3. https://www.weiken.com/
 Images Credit: 1. https://media.istockphoto.com/id/1210344338/vector/niche-door-house-vector-icon-illustration.jpg?s=612x612&w=0&k=20&c=glX3470w4uj39XhxtMy3wXDTDHDHLkeYJq03CYCUhRM=
