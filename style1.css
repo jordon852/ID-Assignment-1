@@ -335,6 +335,9 @@ nav .fa{
 .text-box-4:hover{
     box-shadow: 0 0 60px 0px rgb(255, 166, 0);
 }
+.text-box-4 i{
+    color: white;
+}
 /*-------- Navigation scrolling --------*/
 html{
     scroll-behavior: smooth;
