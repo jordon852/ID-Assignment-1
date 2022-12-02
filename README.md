@@ -1,5 +1,9 @@
 # ID-Assignment-1
-ID-Assignment-1
+Name of this Project:
+    Space Reimagined
+
+Overview:
+    
 Credits: 1. https://www.w3schools.com/html/
          2. https://www.pinterest.com/
          3. https://www.weiken.com/
