@@ -1,10 +1,16 @@
 # ID-Assignment-1
-<h2>Name of this Project:</h2>
-    Space Reimagined
+<h2>Name of this Project:
+    Space Reimagined</h2>
 
-Overview:
-    This project is about a renovation company(fictious) called "Space Reimagined". This company specialises in renovation works. Regardless of the property type, we are able to renovate it to the
-    clients heart's content. This company has more than 30 years of experience in the industry, accumulated excellent client feedbacks across the board. We are also determined to deliver the best-in-class quality and workmanship in our renovation to our clients. If you are looking to renovate, this the right choice right here!
+<h2>Overview</h2>
+    <p>This project is about a renovation company(fictious) called "Space Reimagined". This company specialises in renovation works. Regardless of the property type, we are able to renovate it to the
+    clients heart's content. This company has more than 30 years of experience in the industry, accumulated excellent client feedbacks across the board. We are also determined to deliver the best-in-class quality and workmanship in our renovation to our clients. If you are looking to renovate, this the right choice right here!</p>
+
+<h2>Design Process</h2>
+    <p> This website is specifically designed for clients looking to renovate their homes regardless of the property type. The first thing that home-owners look about for is the visuals of the projects down by the company. Where the best renovation project designs are showed in the "Designs" page. This will help them to visualise what their homes would look like after renovation.
+
+ 
+
 
 Credits: 1. https://www.w3schools.com/html/
          2. https://www.pinterest.com/
