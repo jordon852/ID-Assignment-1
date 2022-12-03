@@ -13,7 +13,7 @@
     <p>Feature 1: There is a form for quotation. Home-owners can fill up the form with their digital home floor plan and submit it. So that a free quotation on how much the renovation cost will be will send to the home-owner. It has it's benefits, such as it is free or charge and it saves time to submit online and no in person trip is needed to attain a free quotation.</p>
     <p>Feature 2: There are hover effects to declutter the page. There are hover-over features that will hide the descriptions of the type of design in the "Designs" page. This can help organise and declutter the page as the information will only be visible after hovering the cursor over, as such there will not be too much information at one glance.</p>
 
-<h2>Technologies Used % Testing</h2>
+<h2>Technologies Used & Testing</h2>
     <p>The main languages used to construct this website is html and css. The quotation form will filter out wrong inputs or short of information inputs when users try to fill up the form. There is also a reset funciton to reset the form to it's original form(revert back to a clear form). These features will help to ensure the information gather is constructive and productive.</p>
 
 <h2>Credits</h2>
