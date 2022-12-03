@@ -50,7 +50,7 @@ nav img{
     background: orange;
     display: block;
     margin: auto;
-    transition: 1.5s;
+    transition: 1.1s;
 }
 .top-nav ul li:hover::after{
     width: 100%;
