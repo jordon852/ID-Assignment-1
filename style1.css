@@ -15,6 +15,7 @@ nav{
     padding: 2% 6%;
     justify-content: space-between;
     align-items: center;
+    
 }
 nav img{
     width: 100px;
@@ -28,6 +29,7 @@ nav img{
 .top-nav{
     flex: 1;
     text-align: right;
+
 }
 .top-nav ul li{
     list-style: none;
@@ -160,9 +162,9 @@ nav .fa{
 .text-box-2:hover{
     box-shadow: 0 0 60px 0px rgb(255, 166, 0);
 }
-/*-------- PROJECTS --------*/
+/*-------- DESIGNS --------*/
 .designs{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.85),rgba(0, 0, 0, 0.85));
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9));
 }
 .designs h1{
     width: 80%;
@@ -208,7 +210,6 @@ nav .fa{
     position: absolute;
     top: 0;
     border-radius: 15px;
-    cursor: pointer;
     background: linear-gradient(rgba(0,0,0,0.5),orange);
     opacity: 0;
     transition: 1.5s;
@@ -334,9 +335,6 @@ nav .fa{
 }
 .text-box-4:hover{
     box-shadow: 0 0 60px 0px rgb(255, 166, 0);
-}
-.text-box-4 i{
-    color: white;
 }
 /*-------- Navigation scrolling --------*/
 html{
